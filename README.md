@@ -54,6 +54,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 #### Education
 
+* [ClarityEnglish](https://www.clarityenglish.com/) -
+  Publishes language learning materials and tests, mainly aimed at tertiary education.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
